@@ -29,3 +29,6 @@
 
 # personal notes
 notes
+
+# vim
+*.sw*
